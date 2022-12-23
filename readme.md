@@ -1,2 +1,2 @@
-## this is a project title
+## Locally hosted project
 LinkedIn_Job_analytics
